@@ -3,11 +3,11 @@
   "basics": {
     "name": "Özcan Zafer AYAN",
     "label": "Frontend Developer",
-    "image": "https://www.gravatar.com/avatar/b3cb368f71c8cca1fb0a74df0ffad2dd?s=200&r=pg&d=mm",
+    "image": "",
     "email": "ozcanzaferayan@gmail.com",
     "phone": "0531",
     "url": "https://github.com/ozcanzaferayan",
-    "summary": "My name is Zafer AYAN, and I'm a software engineer with over 8 years of experience designing, developing and maintaining fullstack web and mobile applications. \n\nI specialize in React Native development, with a proven ability to build rich, high-quality mobile apps for both iOS and Android platforms. I am also experienced in dealing with complex challenges that come with developing for multiple devices and different ways of interacting with them. ",
+    "summary": "My name is Zafer AYAN, and I'm a software engineer with over 8 years of experience designing, developing and maintaining fullstack web and mobile applications. \n\nI specialize in React Native development, with a proven ability to build rich, high-quality mobile apps for both iOS and Android platforms. I am also experienced in dealing with complex challenges that come with developing for multiple devices and different ways of interacting with them. \n\nIn addition, I have considerable knowledge of popular technologies like JavaScript, HTML, CSS, and Node.js. I have experience in a wide range of technologies related to software, including computer networks and data communications, database design and management, and system software engineering.\n\nI am a highly-motivated individual with a passion for problem-solving and developing software solutions that meet the highest standards. I take pride in staying up-to-date with the latest technologies and trends, and strive to produce high-quality work that exceeds customer expectations.",
     "location": {
       "countryCode": "TR",
       "address": "Istanbul"
@@ -31,7 +31,7 @@
       "position": "Frontend Developer",
       "startDate": "2021-10-31",
       "highlights": [],
-      "summary": "",
+      "summary": "React Native Development",
       "url": "https://www.linkedin.com/company/4843600",
       "location": "İstanbul, Türkiye"
     },
@@ -41,12 +41,259 @@
       "startDate": "2020-10-31",
       "endDate": "2021-10-31",
       "highlights": [],
-      "summary": "",
+      "summary": "React Native Development",
       "url": "https://www.linkedin.com/company/4990412",
       "location": "Türkiye"
+    },
+    {
+      "name": "İSPER AŞ",
+      "position": "Mobile Application Developer",
+      "startDate": "2016-05-31",
+      "endDate": "2020-10-31",
+      "highlights": [],
+      "summary": "Android & Java & .NET development",
+      "url": "https://www.linkedin.com/company/11558450",
+      "location": "İstanbul, Türkiye"
+    },
+    {
+      "name": "Figensoft",
+      "position": "Computer Engineer",
+      "startDate": "2014-09-30",
+      "endDate": "2016-04-30",
+      "highlights": [],
+      "summary": "Full Stack Development",
+      "url": "https://www.linkedin.com/company/1305479",
+      "location": "İstanbul, Türkiye"
+    },
+    {
+      "name": "İstanbul Buyuksehir Belediyesi",
+      "position": "Intern",
+      "startDate": "2013-06-30",
+      "endDate": "2013-07-31",
+      "highlights": [],
+      "summary": "Frontend",
+      "url": "https://www.linkedin.com/company/2907915",
+      "location": "Yazılım Şefliği"
     }
   ],
-
+  "volunteer": [
+    {
+      "organization": "ACM Hacettepe",
+      "position": "Teaching Professional",
+      "startDate": "2020-11-30",
+      "endDate": "2021-06-30",
+      "summary": "I gave a programming course about ReactJS about 12 weeks. Subjects:\n- Introduction into HTML\n- Introduction into CSS\n- Layout operations with Flexbox\n- Creating CRM App with CSS & HTML\n- Introduction into JavaScript\n- Javascript Exercises, \n- Creating REST server with json-server\n- Fetch API \n- Introduction into ReactJS\n- Creating project with React\n- Handling state with useState\n- Connecting REST server via useEffect and fetch API\n- Introduction into React Native\n- Creating Twitter clone project with React Native\n- Introduction into Redux\n- Creating middleware with Redux Saga",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=jP0XbVAi-N4&list=PLH2Ca1J4pIrzoie_TMY0MdTiU2NpmvWjf"
+    },
+    {
+      "organization": "Gebze Teknik Üniversitesi Bilgisayar Topluluğu",
+      "position": "Teaching Professional",
+      "startDate": "2020-12-31",
+      "endDate": "2020-12-31",
+      "summary": "How to start Frontend development",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=1jBwx6mkFSo"
+    },
+    {
+      "organization": "Devnot",
+      "position": "Teaching Professional",
+      "startDate": "2020-05-31",
+      "endDate": "2020-05-31",
+      "summary": "Created React Native chat app according to WhatsApp like design and compared with flutter development.",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=uOiM_LEGnKI"
+    },
+    {
+      "organization": "IEEE KOU Student Branch",
+      "position": "Teaching Professional",
+      "startDate": "2020-12-31",
+      "endDate": "2020-12-31",
+      "summary": "Created Twitter clone app via React Native",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=OtGmoIciL24"
+    },
+    {
+      "organization": "Developer Circles from Facebook",
+      "position": "Teaching Professional",
+      "startDate": "2020-09-30",
+      "endDate": "2020-09-30",
+      "summary": "CI/CD management via Github Actions",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=gFfSgCtVitE"
+    },
+    {
+      "organization": "Developer MultiGroup",
+      "position": "Teaching Professional",
+      "startDate": "2022-06-30",
+      "endDate": "2022-06-30",
+      "summary": "Remix React Framework",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=0IMz1aA-4IA"
+    },
+    {
+      "organization": "Patika.dev",
+      "position": "Teaching Professional",
+      "startDate": "2022-04-30",
+      "endDate": "2022-04-30",
+      "summary": "Curiosities about React Native",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=k-PnEOU1JlI"
+    },
+    {
+      "organization": "Teknasyon",
+      "position": "Teaching Professional",
+      "startDate": "2022-04-30",
+      "endDate": "2022-04-30",
+      "summary": "Teknasyon Tech Day'22-How We Integrated React Native into an Application with 150 Million Users?",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=NoljTb9V-EM"
+    },
+    {
+      "organization": "Teknasyon",
+      "position": "Teaching Professional",
+      "startDate": "2022-07-31",
+      "endDate": "2022-07-31",
+      "summary": "Developing Fullstack Applications with React Remix",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=YKFmH6-RQ68"
+    },
+    {
+      "organization": "Frontendship",
+      "position": "Teaching Professional",
+      "startDate": "2022-10-31",
+      "endDate": "2022-10-31",
+      "summary": "Coding CRM App with CSS & HTML",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=EQPNZuBNRlA"
+    },
+    {
+      "organization": "ACM Hacettepe",
+      "position": "Teaching Professional",
+      "startDate": "2020-06-30",
+      "endDate": "2020-06-30",
+      "summary": "Development web applications with React",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=awwtaeqR54Q"
+    },
+    {
+      "organization": "Kodluyoruz",
+      "position": "Teaching Professional",
+      "startDate": "2021-09-30",
+      "endDate": "2021-10-31",
+      "summary": "JavaScript React Bootcamp",
+      "highlights": [],
+      "url": "https://github.com/orgs/K128-Mersin-JavaScript-React-Bootcamp/repositories?q=lesson&type=all"
+    },
+    {
+      "organization": "Devnot",
+      "position": "Teaching Professional",
+      "startDate": "2021-01-31",
+      "endDate": "2021-01-31",
+      "summary": "React Server Components",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=X-_0ACXSE9I"
+    },
+    {
+      "organization": "JStanbul",
+      "position": "Teaching Professional",
+      "startDate": "2022-06-30",
+      "endDate": "2022-06-30",
+      "summary": "Remix Workshop",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=pJrYmmFxLgA"
+    },
+    {
+      "organization": "Teknasyon",
+      "position": "Teaching Professional",
+      "startDate": "2022-04-30",
+      "endDate": "2022-04-30",
+      "summary": "Advanced React Native Architecture Workshop",
+      "highlights": [],
+      "url": "https://kommunity.com/rntr/events/react-native-proje-mimarisi-365d270e"
+    },
+    {
+      "organization": "Devnot",
+      "position": "Teaching Professional",
+      "startDate": "2020-11-30",
+      "endDate": "2020-11-30",
+      "summary": "Gave a talk about CI/CD operations via Github Actions.",
+      "highlights": [],
+      "url": "https://kommunity.com/devnot/events/developer-summit-online-a07e5eb7"
+    },
+    {
+      "organization": "Çay Kahve İnsan",
+      "position": "Teaching Professional",
+      "startDate": "2021-10-31",
+      "endDate": "2021-10-31",
+      "summary": "Yazılımcı sohbetleri - Yazılımı, Kağıda Yazarak Öğrendim!",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=1zud_xz9PY0"
+    },
+    {
+      "organization": "Mavidurak.io",
+      "position": "Teaching Professional",
+      "startDate": "2022-10-31",
+      "endDate": "2022-10-31",
+      "summary": "ReactJS & Ant Design Workshop",
+      "highlights": [],
+      "url": "https://twitter.com/mavidurakio/status/1582013555204796416"
+    },
+    {
+      "organization": "Otsimo",
+      "position": "Teaching Professional",
+      "startDate": "2022-11-30",
+      "endDate": "2022-11-30",
+      "summary": "Architectural Solutions for Modern ReactJS Applications",
+      "highlights": [],
+      "url": "https://kommunity.com/javascript-sessions/events/javascript-sessions-ankara-9-c3ca7e3b"
+    },
+    {
+      "organization": "BAU Yazılım ve Bilişim Kulübü",
+      "position": "Teaching Professional",
+      "startDate": "2023-01-31",
+      "endDate": "2023-01-31",
+      "summary": "0-100 ReactJS Workshop",
+      "highlights": [],
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7014146315244695553/"
+    },
+    {
+      "organization": "İstanbul Gelişim Üniversitesi",
+      "position": "Teaching Professional",
+      "startDate": "2022-12-31",
+      "endDate": "2022-12-31",
+      "summary": "Starting to Frontend career",
+      "highlights": [],
+      "url": "https://www.linkedin.com/posts/%C3%A7isem-y-88b411a5_front-end-kariyerlerine-ba%C5%9Flay%C4%B1%C5%9F-ser%C3%BCvenlerini-activity-7008899843213398016-oYoO?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "organization": "NG Turkey",
+      "position": "Teaching Professional",
+      "startDate": "2022-12-31",
+      "endDate": "2022-12-31",
+      "summary": "Teaching ReactJS to Angular developer",
+      "highlights": [],
+      "url": "https://www.youtube.com/watch?v=zGTq05CXCQc"
+    },
+    {
+      "organization": "GDG Antalya",
+      "position": "Teaching Professional",
+      "startDate": "2022-11-30",
+      "endDate": "2022-11-30",
+      "summary": "Introduction to Redux",
+      "highlights": [],
+      "url": "https://www.linkedin.com/posts/zaferayan_bu-g%C3%BCn-kat%C4%B1lm%C4%B1%C5%9F-oldu%C4%9Fum-gdg-devfest2022-etkinli%C4%9Finde-activity-7005242458087276544-18Wl?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "organization": "Karadeniz Teknik Üniversitesi",
+      "position": "Teaching Professional",
+      "startDate": "2022-10-31",
+      "endDate": "2022-10-31",
+      "summary": "React Workshop for two days",
+      "highlights": [],
+      "url": "https://www.linkedin.com/posts/zaferayan_react-activity-7002948914324619264-KbgA?utm_source=share&utm_medium=member_desktop"
+    }
+  ],
   "education": [
     {
       "institution": "Çanakkale Onsekiz Mart Üniversitesi",
@@ -64,6 +311,7 @@
     {
       "name": "Web Contents Based Text Mining",
       "publisher": "An Evaluation about the Queries for Opinions of Financial Market Professionals using Resources based on the Web 2.0 Technology",
+      "releaseDate": "2015-08-15",
       "summary": "Konferans:\n“5th International Symposium on Information Management in a Changing World”\nAntalya, Turkey, 24-26 November 2014.",
       "url": "http://www.temjournal.com/content/43/12/TemJournalAugust2015_301_305.pdf"
     }
@@ -91,6 +339,10 @@
     }
   ],
   "languages": [
+    {
+      "language": "tr",
+      "fluency": "Native Speaker"
+    },
     {
       "fluency": "Native Speaker",
       "language": "Türkçe"
@@ -123,32 +375,55 @@
       "summary": "This project offers those who want to become customers of the Fibabanka, without going to the branch, and becoming Fibabanka customers through the mobile application. My responsibilities in this project involve;\n\n\n- Building the architecture of the project\n- Forming a sustainable and maintainable codebase.\n- Safely transferring the sensitive information \n- Taking initiative in the subjects of UI/UX\n- Working on project analysis and scheduling meetings with stakeholders.\n- Ensuring that the application works stably on various mobile devices.\n- Creating the React-Native bridge modules for NFC SDK, FaceMatch SDK and Realtime Video Call SDK and providing the implementation of these SDKs.",
       "url": "https://apps.apple.com/tr/app/fibabanka-mobil/id1489574086?l=tr",
       "endDate": "2021-10-31"
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Gebze Teknik Üniversitesi Bilgisayar Topluluğu",
-      "position": "Teaching Professional",
-      "startDate": "2020-12-31",
-      "endDate": "2020-12-31",
-      "summary": "How to start Frontend development\nhttps://www.youtube.com/watch?v=1jBwx6mkFSo",
-      "highlights": []
     },
     {
-      "organization": "Devnot",
-      "position": "Teaching Professional",
-      "startDate": "2020-05-31",
-      "endDate": "2020-05-31",
-      "summary": "Created React Native chat app according to WhatsApp like design and compared with flutter development.\nhttps://www.youtube.com/watch?v=uOiM_LEGnKI",
-      "highlights": []
+      "name": "İski Android App",
+      "startDate": "2017-01-31",
+      "summary": "This Android app contains various operations related with ISKI (Istanbul Water and Sewerage Administration) that contains:\n* Dam water levels and detailed statistics for every dam based date,\n* E-şube section  which allows to pay invoices,\n* Failure/shortage section about water related problems,\n* Quick payment section which contains barcode scanner. Therefore, users can scans barcode from their invoices and app instantly navigates to payment page about that user,\n* Failure record section which gets water related failures from user and sends to İSKİ,\n* FAQ section,\n*  Branches section which has branch contact info and another related information,\n* YÖM (Authorized payment centers) section, which has YÖM contact info,\n* Bids and contact info serction.",
+      "url": "https://play.google.com/store/apps/details?id=istanbul.iski.mobil",
+      "endDate": "2020-10-31"
     },
     {
-      "organization": "IEEE KOU Student Branch",
-      "position": "Teaching Professional",
-      "startDate": "2020-12-31",
-      "endDate": "2020-12-31",
-      "summary": "Created Twitter clone app via React Native\nhttps://www.youtube.com/watch?v=OtGmoIciL24",
-      "highlights": []
+      "name": "JAX-RS and JAX-WS Projects",
+      "startDate": "2017-01-31",
+      "summary": "Miscellaneous SOAP and REST services that runs on Weblogic servers.",
+      "url": "https://www.iski.istanbul/web",
+      "endDate": "2020-09-30"
+    },
+    {
+      "name": "Water/Natural Gas Metering Android App for İSKİ & İGDAŞ Institutions",
+      "startDate": "2017-03-31",
+      "summary": "This Android app collects information from water and natural gas counters belongs to subscribers and prints invoice from bluetooth printer. Counter reader users can login with their credentials and then can receive daily counter jobs as batch. Users can read counters sequentially (or directly via counter installment number or barcode scanning) and enter counter value to app. When user taps to operate accrual button, app sends counter info to our server and receives back with invoice info. Afterwards,  app generates CPCL code from that invoice info and sends encoded data to bluetooth Zebra printer. If network is unreliable, user can move counter data to queue. Therefore when network becomes reliable, user can operate queue data as batch. \nWhen counter is broken or counter value not readable, user can take picture of that counter as evidence to counter has been read. Counter pictures can send to server concurrently via Android IntentService. \nCounter reader chiefs can send message within Web app to counter reader users for some urgent cases. In this situation, Android app gets message and show to user as notification.\nAndroid app can be updated remotely without Google Play Store. App checks periodically if new version relased, and then downloads apk file and installs new version.",
+      "url": "https://www.iski.istanbul/web",
+      "endDate": "2019-03-31"
+    },
+    {
+      "name": "Personnel Directory Cordova App",
+      "startDate": "2017-02-28",
+      "summary": "With this project, managers can view another personnel information such as name, born date/location, date of employment, education level, seniority status, contact info etc. Managers can send email and also save personnel info to their phone directory directly within this app. Furthermore, they can display and get directions to personnel residing place location. Because of project implemented as Cordova App, can work on Android, iOS, Web and any other Cordova compatible platforms.",
+      "url": "https://www.iski.istanbul/web",
+      "endDate": "2017-06-30"
+    },
+    {
+      "name": "bimtel.com.tr",
+      "startDate": "2016-11-30",
+      "summary": "I created website design from PSD file and integrated to Bootstrap. Therefore, users can visit this site from their phones, tables and PC's responsively. I also prepared site contents and textual data to introduce company technologies.",
+      "url": "http://bimtel.com.tr/",
+      "endDate": "2017-01-31"
+    },
+    {
+      "name": "Hosgeldin.biz",
+      "startDate": "2015-01-31",
+      "summary": "This project implements Physical Web to provide beacon device management on web app and interacted mobile services. Users can create beacon devices within web app and upload contents for campaigns, sales and any other operations to encourage people. When any person enters the beacon  area, mobile app detects that beacon via Bluetooth and creates notification, plays music, displays video, navigates web page to supporting that campaign. \nProject consists three parts: ASP MVC Web App, Android & iOS app. I worked on entire web app and various parts of the Android project.\n",
+      "url": "http://hosgeldin.biz/",
+      "endDate": "2016-11-30"
+    },
+    {
+      "name": "Logo Tiger 3 (ERP) Integration to BackOffice",
+      "startDate": "2016-03-31",
+      "summary": "This Web project integrated on our back office web pages. In this ASP MVC app, user can view payment related operations that connected with Logo Tiger ERP system. Integration with ERP implemented with Lobjects.dll which can connects ERP system and can query operations.",
+      "url": "https://www.figensoft.com",
+      "endDate": "2016-10-31"
     }
   ],
   "meta": {
