@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Özcan Zafer AYAN",
+    "name": "Zafer AYAN",
     "label": "Frontend Developer",
     "image": "https://www.gravatar.com/avatar/b3cb368f71c8cca1fb0a74df0ffad2dd?s=200&r=pg&d=mm",
     "email": "ozcanzaferayan@gmail.com",
