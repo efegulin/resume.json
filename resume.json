@@ -64,7 +64,6 @@
     {
       "name": "Web Contents Based Text Mining",
       "publisher": "An Evaluation about the Queries for Opinions of Financial Market Professionals using Resources based on the Web 2.0 Technology",
-      "releaseDate": "",
       "summary": "Konferans:\n“5th International Symposium on Information Management in a Changing World”\nAntalya, Turkey, 24-26 November 2014.",
       "url": "http://www.temjournal.com/content/43/12/TemJournalAugust2015_301_305.pdf"
     }
@@ -133,8 +132,7 @@
       "startDate": "2020-12-31",
       "endDate": "2020-12-31",
       "summary": "How to start Frontend development\nhttps://www.youtube.com/watch?v=1jBwx6mkFSo",
-      "highlights": [],
-      "url": ""
+      "highlights": []
     },
     {
       "organization": "Devnot",
@@ -142,8 +140,7 @@
       "startDate": "2020-05-31",
       "endDate": "2020-05-31",
       "summary": "Created React Native chat app according to WhatsApp like design and compared with flutter development.\nhttps://www.youtube.com/watch?v=uOiM_LEGnKI",
-      "highlights": [],
-      "url": ""
+      "highlights": []
     },
     {
       "organization": "IEEE KOU Student Branch",
@@ -151,8 +148,7 @@
       "startDate": "2020-12-31",
       "endDate": "2020-12-31",
       "summary": "Created Twitter clone app via React Native\nhttps://www.youtube.com/watch?v=OtGmoIciL24",
-      "highlights": [],
-      "url": ""
+      "highlights": []
     }
   ],
   "meta": {
