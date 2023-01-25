@@ -1,0 +1,163 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Özcan Zafer AYAN",
+    "label": "Frontend Developer",
+    "image": "https://www.gravatar.com/avatar/b3cb368f71c8cca1fb0a74df0ffad2dd?s=200&r=pg&d=mm",
+    "email": "ozcanzaferayan@gmail.com",
+    "phone": "0531",
+    "url": "https://github.com/ozcanzaferayan",
+    "summary": "My name is Zafer AYAN, and I'm a software engineer with over 8 years of experience designing, developing and maintaining fullstack web and mobile applications. \n\nI specialize in React Native development, with a proven ability to build rich, high-quality mobile apps for both iOS and Android platforms. I am also experienced in dealing with complex challenges that come with developing for multiple devices and different ways of interacting with them. ",
+    "location": {
+      "countryCode": "TR",
+      "address": "Istanbul"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "zaferayan",
+        "url": "https://www.linkedin.com/in/zaferayan/"
+      },
+      {
+        "network": "Twitter",
+        "username": "ZaferAyan",
+        "url": "https://twitter.com/ZaferAyan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Teknasyon",
+      "position": "Frontend Developer",
+      "startDate": "2021-10-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/4843600",
+      "location": "İstanbul, Türkiye"
+    },
+    {
+      "name": "Fibabanka",
+      "position": "Sr. Software Engineer",
+      "startDate": "2020-10-31",
+      "endDate": "2021-10-31",
+      "highlights": [],
+      "summary": "",
+      "url": "https://www.linkedin.com/company/4990412",
+      "location": "Türkiye"
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Çanakkale Onsekiz Mart Üniversitesi",
+      "area": "Bilgisayar Mühendisliği",
+      "studyType": "Bachelor of Science (BSc)",
+      "startDate": "2010-12-31",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Web Contents Based Text Mining",
+      "publisher": "An Evaluation about the Queries for Opinions of Financial Market Professionals using Resources based on the Web 2.0 Technology",
+      "releaseDate": "",
+      "summary": "Konferans:\n“5th International Symposium on Information Management in a Changing World”\nAntalya, Turkey, 24-26 November 2014.",
+      "url": "http://www.temjournal.com/content/43/12/TemJournalAugust2015_301_305.pdf"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React Native",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fibabanka",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "Türkçe"
+    },
+    {
+      "fluency": "Full Professional",
+      "language": "İngilizce"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Deepwall",
+      "startDate": "2021-10-31",
+      "summary": "Created A/B template themes for Deepwall clients.\n\n- Creating animated components according to Figma files.\n- Building the Typescript-oriented architecture of the project\n- Working on project analysis and scheduling meetings with stakeholders.\n- Ensuring that the application works stably on various mobile devices.",
+      "url": "https://www.deepwall.com",
+      "endDate": "2021-10-31"
+    },
+    {
+      "name": "GetContact React Native Integration",
+      "startDate": "2021-10-31",
+      "summary": "Created native libraries for iOS and Android applications to integrate React Native into native apps. Also written UI tests, created React Native Web integration for create storybook documentations.\n\n- Building the architecture of the project\n- Forming a sustainable and maintainable codebase.\n- Safely transferring the sensitive information \n- Taking initiative in the subjects of UI/UX\n- Working on project analysis and scheduling meetings with stakeholders.\n- Ensuring that the application works stably on various mobile devices.\n- Integrating FBsdk, Admob and ironsource advertisement platforms.\n- Storybook documentations.\n- Typescript written codebase and tests.\n- Well defined webpack configurations.",
+      "url": "https://www.getcontact.com",
+      "endDate": "2021-10-31"
+    },
+    {
+      "name": "Fibabanka Video Onboarding Project",
+      "startDate": "2020-10-31",
+      "summary": "This project offers those who want to become customers of the Fibabanka, without going to the branch, and becoming Fibabanka customers through the mobile application. My responsibilities in this project involve;\n\n\n- Building the architecture of the project\n- Forming a sustainable and maintainable codebase.\n- Safely transferring the sensitive information \n- Taking initiative in the subjects of UI/UX\n- Working on project analysis and scheduling meetings with stakeholders.\n- Ensuring that the application works stably on various mobile devices.\n- Creating the React-Native bridge modules for NFC SDK, FaceMatch SDK and Realtime Video Call SDK and providing the implementation of these SDKs.",
+      "url": "https://apps.apple.com/tr/app/fibabanka-mobil/id1489574086?l=tr",
+      "endDate": "2021-10-31"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Gebze Teknik Üniversitesi Bilgisayar Topluluğu",
+      "position": "Teaching Professional",
+      "startDate": "2020-12-31",
+      "endDate": "2020-12-31",
+      "summary": "How to start Frontend development\nhttps://www.youtube.com/watch?v=1jBwx6mkFSo",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "Devnot",
+      "position": "Teaching Professional",
+      "startDate": "2020-05-31",
+      "endDate": "2020-05-31",
+      "summary": "Created React Native chat app according to WhatsApp like design and compared with flutter development.\nhttps://www.youtube.com/watch?v=uOiM_LEGnKI",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "organization": "IEEE KOU Student Branch",
+      "position": "Teaching Professional",
+      "startDate": "2020-12-31",
+      "endDate": "2020-12-31",
+      "summary": "Created Twitter clone app via React Native\nhttps://www.youtube.com/watch?v=OtGmoIciL24",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
