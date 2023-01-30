@@ -87,15 +87,6 @@
       "url": "https://www.youtube.com/watch?v=jP0XbVAi-N4&list=PLH2Ca1J4pIrzoie_TMY0MdTiU2NpmvWjf"
     },
     {
-      "organization": "Gebze Teknik Üniversitesi Bilgisayar Topluluğu",
-      "position": "Teaching Professional",
-      "startDate": "2020-12-31",
-      "endDate": "2020-12-31",
-      "summary": "How to start Frontend development",
-      "highlights": [],
-      "url": "https://www.youtube.com/watch?v=1jBwx6mkFSo"
-    },
-    {
       "organization": "Devnot",
       "position": "Teaching Professional",
       "startDate": "2020-05-31",
@@ -103,96 +94,6 @@
       "summary": "Created React Native chat app according to WhatsApp like design and compared with flutter development.",
       "highlights": [],
       "url": "https://www.youtube.com/watch?v=uOiM_LEGnKI"
-    },
-    {
-      "organization": "IEEE KOU Student Branch",
-      "position": "Teaching Professional",
-      "startDate": "2020-12-31",
-      "endDate": "2020-12-31",
-      "summary": "Created Twitter clone app via React Native",
-      "highlights": [],
-      "url": "https://www.youtube.com/watch?v=OtGmoIciL24"
-    },
-    {
-      "organization": "Developer Circles from Facebook",
-      "position": "Teaching Professional",
-      "startDate": "2020-09-30",
-      "endDate": "2020-09-30",
-      "summary": "CI/CD management via Github Actions",
-      "highlights": [],
-      "url": "https://www.youtube.com/watch?v=gFfSgCtVitE"
-    },
-    {
-      "organization": "Developer MultiGroup",
-      "position": "Teaching Professional",
-      "startDate": "2022-06-30",
-      "endDate": "2022-06-30",
-      "summary": "Remix React Framework",
-      "highlights": [],
-      "url": "https://www.youtube.com/watch?v=0IMz1aA-4IA"
-    },
-    {
-      "organization": "Patika.dev",
-      "position": "Teaching Professional",
-      "startDate": "2022-04-30",
-      "endDate": "2022-04-30",
-      "summary": "Curiosities about React Native",
-      "highlights": [],
-      "url": "https://www.youtube.com/watch?v=k-PnEOU1JlI"
-    },
-    {
-      "organization": "Teknasyon",
-      "position": "Teaching Professional",
-      "startDate": "2022-04-30",
-      "endDate": "2022-04-30",
-      "summary": "Teknasyon Tech Day'22-How We Integrated React Native into an Application with 150 Million Users?",
-      "highlights": [],
-      "url": "https://www.youtube.com/watch?v=NoljTb9V-EM"
-    },
-    {
-      "organization": "Teknasyon",
-      "position": "Teaching Professional",
-      "startDate": "2022-07-31",
-      "endDate": "2022-07-31",
-      "summary": "Developing Fullstack Applications with React Remix",
-      "highlights": [],
-      "url": "https://www.youtube.com/watch?v=YKFmH6-RQ68"
-    },
-    {
-      "organization": "Frontendship",
-      "position": "Teaching Professional",
-      "startDate": "2022-10-31",
-      "endDate": "2022-10-31",
-      "summary": "Coding CRM App with CSS & HTML",
-      "highlights": [],
-      "url": "https://www.youtube.com/watch?v=EQPNZuBNRlA"
-    },
-    {
-      "organization": "ACM Hacettepe",
-      "position": "Teaching Professional",
-      "startDate": "2020-06-30",
-      "endDate": "2020-06-30",
-      "summary": "Development web applications with React",
-      "highlights": [],
-      "url": "https://www.youtube.com/watch?v=awwtaeqR54Q"
-    },
-    {
-      "organization": "Kodluyoruz",
-      "position": "Teaching Professional",
-      "startDate": "2021-09-30",
-      "endDate": "2021-10-31",
-      "summary": "JavaScript React Bootcamp",
-      "highlights": [],
-      "url": "https://github.com/orgs/K128-Mersin-JavaScript-React-Bootcamp/repositories?q=lesson&type=all"
-    },
-    {
-      "organization": "Devnot",
-      "position": "Teaching Professional",
-      "startDate": "2021-01-31",
-      "endDate": "2021-01-31",
-      "summary": "React Server Components",
-      "highlights": [],
-      "url": "https://www.youtube.com/watch?v=X-_0ACXSE9I"
     },
     {
       "organization": "JStanbul",
@@ -203,96 +104,6 @@
       "highlights": [],
       "url": "https://www.youtube.com/watch?v=pJrYmmFxLgA"
     },
-    {
-      "organization": "Teknasyon",
-      "position": "Teaching Professional",
-      "startDate": "2022-04-30",
-      "endDate": "2022-04-30",
-      "summary": "Advanced React Native Architecture Workshop",
-      "highlights": [],
-      "url": "https://kommunity.com/rntr/events/react-native-proje-mimarisi-365d270e"
-    },
-    {
-      "organization": "Devnot",
-      "position": "Teaching Professional",
-      "startDate": "2020-11-30",
-      "endDate": "2020-11-30",
-      "summary": "Gave a talk about CI/CD operations via Github Actions.",
-      "highlights": [],
-      "url": "https://kommunity.com/devnot/events/developer-summit-online-a07e5eb7"
-    },
-    {
-      "organization": "Çay Kahve İnsan",
-      "position": "Teaching Professional",
-      "startDate": "2021-10-31",
-      "endDate": "2021-10-31",
-      "summary": "Yazılımcı sohbetleri - Yazılımı, Kağıda Yazarak Öğrendim!",
-      "highlights": [],
-      "url": "https://www.youtube.com/watch?v=1zud_xz9PY0"
-    },
-    {
-      "organization": "Mavidurak.io",
-      "position": "Teaching Professional",
-      "startDate": "2022-10-31",
-      "endDate": "2022-10-31",
-      "summary": "ReactJS & Ant Design Workshop",
-      "highlights": [],
-      "url": "https://twitter.com/mavidurakio/status/1582013555204796416"
-    },
-    {
-      "organization": "Otsimo",
-      "position": "Teaching Professional",
-      "startDate": "2022-11-30",
-      "endDate": "2022-11-30",
-      "summary": "Architectural Solutions for Modern ReactJS Applications",
-      "highlights": [],
-      "url": "https://kommunity.com/javascript-sessions/events/javascript-sessions-ankara-9-c3ca7e3b"
-    },
-    {
-      "organization": "BAU Yazılım ve Bilişim Kulübü",
-      "position": "Teaching Professional",
-      "startDate": "2023-01-31",
-      "endDate": "2023-01-31",
-      "summary": "0-100 ReactJS Workshop",
-      "highlights": [],
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7014146315244695553/"
-    },
-    {
-      "organization": "İstanbul Gelişim Üniversitesi",
-      "position": "Teaching Professional",
-      "startDate": "2022-12-31",
-      "endDate": "2022-12-31",
-      "summary": "Starting to Frontend career",
-      "highlights": [],
-      "url": "https://www.linkedin.com/posts/%C3%A7isem-y-88b411a5_front-end-kariyerlerine-ba%C5%9Flay%C4%B1%C5%9F-ser%C3%BCvenlerini-activity-7008899843213398016-oYoO?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-      "organization": "NG Turkey",
-      "position": "Teaching Professional",
-      "startDate": "2022-12-31",
-      "endDate": "2022-12-31",
-      "summary": "Teaching ReactJS to Angular developer",
-      "highlights": [],
-      "url": "https://www.youtube.com/watch?v=zGTq05CXCQc"
-    },
-    {
-      "organization": "GDG Antalya",
-      "position": "Teaching Professional",
-      "startDate": "2022-11-30",
-      "endDate": "2022-11-30",
-      "summary": "Introduction to Redux",
-      "highlights": [],
-      "url": "https://www.linkedin.com/posts/zaferayan_bu-g%C3%BCn-kat%C4%B1lm%C4%B1%C5%9F-oldu%C4%9Fum-gdg-devfest2022-etkinli%C4%9Finde-activity-7005242458087276544-18Wl?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-      "organization": "Karadeniz Teknik Üniversitesi",
-      "position": "Teaching Professional",
-      "startDate": "2022-10-31",
-      "endDate": "2022-10-31",
-      "summary": "React Workshop for two days",
-      "highlights": [],
-      "url": "https://www.linkedin.com/posts/zaferayan_react-activity-7002948914324619264-KbgA?utm_source=share&utm_medium=member_desktop"
-    }
   ],
   "education": [
     {
